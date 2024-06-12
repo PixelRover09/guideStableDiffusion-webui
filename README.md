@@ -15,3 +15,6 @@ i vari passaggi ed operazioni presenti nella guida sono stati testati e svilupat
 - ReActor
 - Logo Illusion
 - QR code
+
+# Link Guida 
+https://github.com/PixelRover09/guideStableDiffusion-webui/blob/main/Stable%20Diffusion%20guide%20to%20model%20and%20generation%20411b918b2e0d43a39a2fa5d52265bf47.md
