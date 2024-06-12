@@ -1,4 +1,4 @@
-# guideStableDiffusion-webui
+# GuideStableDiffusion-webui
 Guida semplice per stable diffusion redatta durante il tirocinio presso AbaCatania. 
 guida redatta durante il tirocinio presso l'accademia delle belle arti di Catania per il corso di NTA , nuove tecnologie per l'arte e per il web.
 i vari passaggi ed operazioni presenti nella guida sono stati testati e svilupatti durante la stesura della guida.
